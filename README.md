@@ -9,3 +9,4 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 
 ## Papers
 - Enhancing Local Feature Extraction with Global Representation for Neural Text Classification (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1047/) [[code]](https://github.com/PaddlePaddle/models/tree/develop/PaddleNLP/Research/EMNLP2019-GELE) - *GELE*
+- How to Fine-Tune BERT for Text Classification? (CoRR 2019) [[paper]](https://arxiv.org/abs/1905.05583)
