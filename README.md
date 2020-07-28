@@ -17,6 +17,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ## Repository & Tool
 - [649453932 / Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch) - 开箱即用的基于PyTorch实现的中文文本分类
 - [AnubhavGupta3377 / Text-Classification-Models-Pytorch](https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch) - Implementation of State-of-the-art Text Classification Models in Pytorch
+- [brightmart / text_classification](https://github.com/brightmart/text_classification) - All kinds of text classification models and more with deep learning
 - [dennybritz / cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow
 - [songyingxin / TextClassification](https://github.com/songyingxin/TextClassification) - Pytorch + NLP, 一份友好的项目实践仓库
 - [songyingxin / Bert-TextClassification](https://github.com/songyingxin/Bert-TextClassification) - Implemention some Baseline Model upon Bert for Text Classification
