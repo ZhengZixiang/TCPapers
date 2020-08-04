@@ -8,6 +8,8 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 欢迎修正错误以及新增论文、代码仓库与其他资源等建议！
 
 ## Papers
+- **Convolutional Neural Networks for Sentence Classification**. *Yoon Kim*. (EMNLP 2014) [[paper]](https://arxiv.org/abs/1408.5882) - ***TextCNN***
+- **Recurrent Convolutional Neural Networks for Text Classification**. *Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao*. (AAAI 2015) [[paper]](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Recurrent%20Convolutional%20Neural%20Networks%20for%20Text%20Classification.pdf) - ***TextRCNN***
 - **Enhancing Local Feature Extraction with Global Representation for Neural Text Classification**. *Guocheng Niu, Hengru Xu, Bolei He, Xinyan Xiao, Hua Wu, Sheng Gao*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1047/) [[code]](https://github.com/cdbgogo/Encoder1-Encoder2) - *GELE*
 - **How to Fine-Tune BERT for Text Classification?**. *Chi Sun, Xipeng Qiu, Yige Xu, Xuanjing Huang*. (CCL 2019) [[paper]](https://arxiv.org/abs/1905.05583)[[code]](https://github.com/xuyige/BERT4doc-Classification)
 
