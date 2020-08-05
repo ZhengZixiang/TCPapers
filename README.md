@@ -23,7 +23,10 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [AnubhavGupta3377 / Text-Classification-Models-Pytorch](https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch) - Implementation of State-of-the-art Text Classification Models in Pytorch
 - [brightmart / bert_language_understanding](https://github.com/brightmart/bert_language_understanding) - Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN
 - [brightmart / text_classification](https://github.com/brightmart/text_classification) - All kinds of text classification models and more with deep learning
+- [chenyuntc / PyTorchText](https://github.com/chenyuntc/PyTorchText) - 1st Place Solution for Zhihu Machine Learning Challenge
 - [dennybritz / cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf) - Convolutional Neural Network for Text Classification in Tensorflow
+- [linhaow / TextClassify](https://github.com/linhaow/TextClassify) - 基于预训练模型的文本分类模板，CCF BDCI新闻情感分析初赛A榜4/2735，复赛1%
+- [luopeixiang / textclf](https://github.com/luopeixiang/textclf) - 基于Pytorch/Sklearn的文本分类框架
 - [songyingxin / TextClassification](https://github.com/songyingxin/TextClassification) - Pytorch + NLP, 一份友好的项目实践仓库
 - [songyingxin / Bert-TextClassification](https://github.com/songyingxin/Bert-TextClassification) - Implemention some Baseline Model upon Bert for Text Classification
 - [Tencent / NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
