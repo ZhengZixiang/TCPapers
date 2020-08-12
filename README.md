@@ -39,4 +39,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [songyingxin / Bert-TextClassification](https://github.com/songyingxin/Bert-TextClassification) - Implemention some Baseline Model upon Bert for Text Classification
 - [Tencent / NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
 - [Vincent131499 / TextClassifier_Transformer](https://github.com/Vincent131499/TextClassifier_Transformer) - 个人基于谷歌开源的BERT编写的文本分类器
-- [ZhengZixiang / OpenTC](https://github.com/ZhengZixiang/OpenTC)
+- [ZhengZixiang / OpenTC](https://github.com/ZhengZixiang/OpenTC) - Exploring various text classification models based on PyTorch
+
+## Posts
+- [Paperweekly / label-embedding在文本分类中的应用](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/107872873)
