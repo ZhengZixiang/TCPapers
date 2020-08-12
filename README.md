@@ -12,8 +12,16 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Recurrent Neural Network for Text Classification with Multi-Task Learning**. *Pengfei Liu, Xipeng Qiu, Xuanjing Huang*. (IJCAI 2016) [[paper]](https://arxiv.org/abs/1605.05101) - ***TextRNN***
 - **Recurrent Convolutional Neural Networks for Text Classification**. *Siwei Lai, Liheng Xu, Kang Liu, Jun Zhao*. (AAAI 2015) [[paper]](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/Recurrent%20Convolutional%20Neural%20Networks%20for%20Text%20Classification.pdf) - ***TextRCNN***
 - **Bag of Tricks for Efficient Text Classification**. *Armand Joulin, Edouard Grave, Piotr Bojanowski, Tomas Mikolov*. (EACL 2016) [[paper]](https://arxiv.org/abs/1607.01759) - ***FastText***
-- **Enhancing Local Feature Extraction with Global Representation for Neural Text Classification**. *Guocheng Niu, Hengru Xu, Bolei He, Xinyan Xiao, Hua Wu, Sheng Gao*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1047/) [[code]](https://github.com/cdbgogo/Encoder1-Encoder2) - *GELE*
+- **Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification**. *Peng Zhou, Wei Shi, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao, Bo Xu*. (ACL 2016) [[paper]](https://www.aclweb.org/anthology/P16-2034/) - ***Attn-BiLSTM***
+- **Hierarchical Attention Networks for Document Classification**. *Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy*. (NAACL 2016) [[paper]](https://www.aclweb.org/anthology/N16-1174/) - ***HAN***
+- **Enhancing Local Feature Extraction with Global Representation for Neural Text Classification**. *Guocheng Niu, Hengru Xu, Bolei He, Xinyan Xiao, Hua Wu, Sheng Gao*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1047/) [[code]](https://github.com/cdbgogo/Encoder1-Encoder2) - ***GELE***
 - **How to Fine-Tune BERT for Text Classification?**. *Chi Sun, Xipeng Qiu, Yige Xu, Xuanjing Huang*. (CCL 2019) [[paper]](https://arxiv.org/abs/1905.05583)[[code]](https://github.com/xuyige/BERT4doc-Classification)
+
+### Label Embedding
+- **Joint Embedding of Words and Labels for Text Classification**. *Guoyin Wang, Chunyuan Li, Wenlin Wang, Yizhe Zhang, Dinghan Shen, Xinyuan Zhang, Ricardo Henao, Lawrence Carin*. (ACL 2018) [[paper]](https://arxiv.org/abs/1805.04174)[[code]](https://github.com/guoyinwang/LEAM) - ***LEAM***
+- **Multi-Task Label Embedding for Text Classification**. *Honglun Zhang, Liqiang Xiao, Wenqing Chen, Yongkun Wang, Yaohui Jin*. (EMNLP 2018) [[paper]](https://arxiv.org/abs/1710.07210) - ***MTLE***
+- **Explicit Interaction Model towards Text Classification**. *Cunxiao Du, Zhaozheng Chin, Fuli Feng, Lei Zhu, Tian Gan, Liqiang Nie*. (AAAI 2019) [[paper]](https://arxiv.org/abs/1811.09386)[[code]](https://github.com/NonvolatileMemory/AAAI_2019_EXAM) - ***EXAM***
+- **GILE: A Generalized Input-Label Embedding for Text Classification**. *Nikolaos Pappas, James Henderson* (TACL Volumn 7 2019) [[paper]](https://transacl.org/ojs/index.php/tacl/article/view/1550)[[code]](https://github.com/idiap/gile)
 
 ## Survey & Tutorial
 - **Deep Learning Based Text Classification: A Comprehensive Review**. *Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03705)
@@ -31,3 +39,4 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [songyingxin / Bert-TextClassification](https://github.com/songyingxin/Bert-TextClassification) - Implemention some Baseline Model upon Bert for Text Classification
 - [Tencent / NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
 - [Vincent131499 / TextClassifier_Transformer](https://github.com/Vincent131499/TextClassifier_Transformer) - 个人基于谷歌开源的BERT编写的文本分类器
+- [ZhengZixiang / OpenTC](https://github.com/ZhengZixiang/OpenTC)
