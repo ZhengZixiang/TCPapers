@@ -1,5 +1,5 @@
 # TCPapers
-Must-read papers and related resources on text classification.
+Worth-reading papers and related resources on text classification.
 
 Suggestions about fixing errors or adding papers, repositories and other resources are welcomed!
 
@@ -43,3 +43,4 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 
 ## Posts
 - [Paperweekly / label-embedding在文本分类中的应用](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/107872873)
+- [JayLou娄杰 / 打破BERT天花板：11种花式炼丹术刷爆NLP分类SOTA！](https://mp.weixin.qq.com/s/kQ-PiiLlDSyimixy_Pbe-g)
