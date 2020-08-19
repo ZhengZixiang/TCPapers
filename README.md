@@ -16,6 +16,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Hierarchical Attention Networks for Document Classification**. *Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy*. (NAACL 2016) [[paper]](https://www.aclweb.org/anthology/N16-1174/) - ***HAN***
 - **Enhancing Local Feature Extraction with Global Representation for Neural Text Classification**. *Guocheng Niu, Hengru Xu, Bolei He, Xinyan Xiao, Hua Wu, Sheng Gao*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1047/) [[code]](https://github.com/cdbgogo/Encoder1-Encoder2) - ***GELE***
 - **How to Fine-Tune BERT for Text Classification?**. *Chi Sun, Xipeng Qiu, Yige Xu, Xuanjing Huang*. (CCL 2019) [[paper]](https://arxiv.org/abs/1905.05583)[[code]](https://github.com/xuyige/BERT4doc-Classification)
+- **Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?**. *Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong, Elke Rundensteiner*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.419/) - ***YELP-HAT***
 
 ### Label Embedding
 - **Joint Embedding of Words and Labels for Text Classification**. *Guoyin Wang, Chunyuan Li, Wenlin Wang, Yizhe Zhang, Dinghan Shen, Xinyuan Zhang, Ricardo Henao, Lawrence Carin*. (ACL 2018) [[paper]](https://arxiv.org/abs/1805.04174)[[code]](https://github.com/guoyinwang/LEAM) - ***LEAM***
