@@ -18,6 +18,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **PRADO: Projection Attention Networks for Document Classification On-Device**. *Prabhu Kaliamoorthi, Sujith Ravi, Zornitsa Kozareva*. (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1506/)[[code]](https://github.com/tensorflow/models/tree/master/research/sequence_projection)[[blog]](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html)
 - **How to Fine-Tune BERT for Text Classification?**. *Chi Sun, Xipeng Qiu, Yige Xu, Xuanjing Huang*. (CCL 2019) [[paper]](https://arxiv.org/abs/1905.05583)[[code]](https://github.com/xuyige/BERT4doc-Classification)
 - **Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?**. *Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong, Elke Rundensteiner*. (ACL 2020) [[paper]](https://www.aclweb.org/anthology/2020.acl-main.419/) - ***YELP-HAT***
+- **Description Based Text Classification with Reinforcement Learning**. *Duo Chai, Wei Wu, Qinghong Han, Fei Wu, Jiwei Li*. (ICML 2020) [[paper]](https://arxiv.org/abs/2002.03067)
 
 ### Label Embedding
 - **Joint Embedding of Words and Labels for Text Classification**. *Guoyin Wang, Chunyuan Li, Wenlin Wang, Yizhe Zhang, Dinghan Shen, Xinyuan Zhang, Ricardo Henao, Lawrence Carin*. (ACL 2018) [[paper]](https://arxiv.org/abs/1805.04174)[[code]](https://github.com/guoyinwang/LEAM) - ***LEAM***
