@@ -26,6 +26,10 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Explicit Interaction Model towards Text Classification**. *Cunxiao Du, Zhaozheng Chin, Fuli Feng, Lei Zhu, Tian Gan, Liqiang Nie*. (AAAI 2019) [[paper]](https://arxiv.org/abs/1811.09386)[[code]](https://github.com/NonvolatileMemory/AAAI_2019_EXAM) - ***EXAM***
 - **GILE: A Generalized Input-Label Embedding for Text Classification**. *Nikolaos Pappas, James Henderson* (TACL Volumn 7 2019) [[paper]](https://transacl.org/ojs/index.php/tacl/article/view/1550)[[code]](https://github.com/idiap/gile)
 
+### Weakly-supervised & Semi-supervised Learning
+- **MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification**. *Jiaao Chen, Zichao Yang, Diyi Yang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.12239)[[code]](https://github.com/GT-SALT/MixText)
+- **Text Classification Using Label Names Only: A Language Model Self-Training Approach**. *Yu Meng, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.07245)[[code]](https://github.com/yumeng5/LOTClass) - ***LOTClass***
+
 ## Survey & Tutorial
 - **Deep Learning Based Text Classification: A Comprehensive Review**. *Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03705)
 
@@ -45,5 +49,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [ZhengZixiang / OpenTC](https://github.com/ZhengZixiang/OpenTC) - Exploring various text classification models based on PyTorch
 
 ## Posts
+### English
+- [PapersWithCode / Multi-Label Text Classification](https://paperswithcode.com/task/multi-label-text-classification)
+### Chinese
 - [Paperweekly / label-embedding在文本分类中的应用](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/107872873)
 - [JayLou娄杰 / 打破BERT天花板：11种花式炼丹术刷爆NLP分类SOTA！](https://mp.weixin.qq.com/s/kQ-PiiLlDSyimixy_Pbe-g)
+- [李rumor / 深度学习文本分类｜模型&代码&技巧](https://mp.weixin.qq.com/s/TyPLs6iMewPGOHXMXXtsFg)
