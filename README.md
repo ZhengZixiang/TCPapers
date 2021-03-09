@@ -52,6 +52,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### English
 - [PapersWithCode / Multi-Label Text Classification](https://paperswithcode.com/task/multi-label-text-classification)
 ### Chinese
+- [NewBeeNLP 许明 / 如何提升BERT在下游任务中的性能](https://mp.weixin.qq.com/s/8YDA2jcrWLV6uxPwHhzVFA)
 - [Paperweekly / label-embedding在文本分类中的应用](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/107872873)
 - [JayLou娄杰 / 打破BERT天花板：11种花式炼丹术刷爆NLP分类SOTA！](https://mp.weixin.qq.com/s/kQ-PiiLlDSyimixy_Pbe-g)
 - [李rumor / 深度学习文本分类｜模型&代码&技巧](https://mp.weixin.qq.com/s/TyPLs6iMewPGOHXMXXtsFg)
