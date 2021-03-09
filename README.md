@@ -29,6 +29,9 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 ### Weakly-supervised & Semi-supervised Learning
 - **MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification**. *Jiaao Chen, Zichao Yang, Diyi Yang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.12239)[[code]](https://github.com/GT-SALT/MixText)
 - **Text Classification Using Label Names Only: A Language Model Self-Training Approach**. *Yu Meng, Yunyi Zhang, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.07245)[[code]](https://github.com/yumeng5/LOTClass) - ***LOTClass***
+- **Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference**. *Timo Schick, Hinrich Schütze*. (EACL 2021) [[paper]](https://arxiv.org/abs/2001.07676)[[code]](https://github.com/timoschick/pet)
+- **It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.07118)[[code]](https://github.com/timoschick/pet)
+- **Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**. *Timo Schick, Helmut Schmid, Hinrich Schütze*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.488/)[[code]](https://github.com/timoschick/pet)
 
 ## Survey & Tutorial
 - **Deep Learning Based Text Classification: A Comprehensive Review**. *Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03705)
@@ -45,6 +48,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - [songyingxin / TextClassification](https://github.com/songyingxin/TextClassification) - Pytorch + NLP, 一份友好的项目实践仓库
 - [songyingxin / Bert-TextClassification](https://github.com/songyingxin/Bert-TextClassification) - Implemention some Baseline Model upon Bert for Text Classification
 - [Tencent / NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) - An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
+- [timoschick / pet](https://github.com/timoschick/pet)
 - [Vincent131499 / TextClassifier_Transformer](https://github.com/Vincent131499/TextClassifier_Transformer) - 个人基于谷歌开源的BERT编写的文本分类器
 - [ZhengZixiang / OpenTC](https://github.com/ZhengZixiang/OpenTC) - Exploring various text classification models based on PyTorch
 
