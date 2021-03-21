@@ -32,6 +32,7 @@ Suggestions about fixing errors or adding papers, repositories and other resourc
 - **Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference**. *Timo Schick, Hinrich Schütze*. (EACL 2021) [[paper]](https://arxiv.org/abs/2001.07676)[[code]](https://github.com/timoschick/pet)
 - **It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners**. *Timo Schick, Hinrich Schütze*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2009.07118)[[code]](https://github.com/timoschick/pet)
 - **Automatically Identifying Words That Can Serve as Labels for Few-Shot Text Classification**. *Timo Schick, Helmut Schmid, Hinrich Schütze*. (COLING 2020) [[paper]](https://www.aclweb.org/anthology/2020.coling-main.488/)[[code]](https://github.com/timoschick/pet)
+- **Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning**. *Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, Shiqi Xu*. (NAACL 2021) [[paper]](https://arxiv.org/abs/2103.07552)
 
 ## Survey & Tutorial
 - **Deep Learning Based Text Classification: A Comprehensive Review**. *Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.03705)
